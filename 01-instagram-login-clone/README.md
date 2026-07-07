@@ -1,22 +1,28 @@
-# Instagram Login Clone
+# 📸 Instagram Login Clone
 
-A responsive Instagram login page built using HTML and CSS.
+A responsive Instagram login page built using **HTML5** and **CSS3**.
 
-## Features
+---
 
-- Responsive Layout
-- Flexbox
-- Hover Effects
-- Button Animation
-- Input Focus Effect
-- Mobile Friendly
+## ✨ Features
 
-## Technologies
+- 📱 Responsive Layout
+- 🎨 Flexbox Layout
+- 🖱️ Hover Effects
+- 🚀 Button Animation
+- ✍️ Input Focus Effect
+- 📲 Mobile Friendly
 
-- HTML5
-- CSS3
+---
 
-## Project Preview
+## 🛠️ Technologies Used
+
+- 🌐 HTML5
+- 🎨 CSS3
+
+---
+
+## 🖼️ Project Preview
 
 ### 💻 Desktop View
 
@@ -26,20 +32,39 @@ A responsive Instagram login page built using HTML and CSS.
 
 ![Mobile Screenshot](screenshots/mobile.png)
 
-## Folder Structure
+---
 
-index.html
+## 📂 Folder Structure
 
-style.css
-
-screenshots/
-
-## Future Improvements
-
-- Dark Mode
-- JavaScript Validation
-- Animations
+```text
+01-instagram-login-clone/
+│
+├── fonts/
+│   ├── Billabong.ttf
+│   └── images/
+│
+├── screenshots/
+│   ├── desktop.png
+│   └── mobile.png
+│
+├── insta-logo.png
+├── insta.html
+├── insta.css
+└── README.md
+```
 
 ---
 
-Created by Rohit Chaudhary
+## 🚀 Future Improvements
+
+- 🌙 Dark Mode
+- 🔒 Form Validation
+- ✨ Smooth Animations
+
+---
+
+## 👨‍💻 Author
+
+**Rohit Chaudhary**
+
+⭐ If you like this project, don't forget to star the repository!

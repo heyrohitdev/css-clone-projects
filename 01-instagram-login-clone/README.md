@@ -37,21 +37,17 @@ https://heyrohitdev.github.io/css-clone-projects/01-instagram-login-clone/
 
 ---
 
-## 📂 Folder Structure
+## 📁 Folder Structure
 
 ```text
 01-instagram-login-clone/
-│
-├── fonts/
-│   ├── Billabong.ttf
-│   └── images/
-│
+│── index.html
+│── style.css
+│── insta-logo.png
 │── desktop.png
 │── mobile.png
-│
-├── insta-logo.png
-├── insta.html
-├── insta.css
+│── fonts/
+│   └── Billabong.ttf
 └── README.md
 ```
 

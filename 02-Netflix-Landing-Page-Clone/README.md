@@ -81,11 +81,11 @@ You can also resize the browser window to see how the layout adapts to different
 
 ### 🖥️ Desktop View
 
-![DESKTOP VIEW](screenshots/desktop.png)
+![Desktop](screenshots/desktop.png)
 
 ### 📱 Mobile View
 
-![MOBILE VIEW](screenshots/mobile.png)
+![Mobile](screenshots/mobile.png)
 
 ---
 

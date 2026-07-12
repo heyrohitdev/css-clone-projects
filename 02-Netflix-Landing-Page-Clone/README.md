@@ -47,9 +47,9 @@ The project focuses on improving CSS fundamentals, responsive design, and page s
 ├── Netflix-logo.svg
 └── README.md
 
----
+```
 
-## 🚀 Getting Started
+---
 
 ### 1️⃣ Clone the Repository
 
@@ -81,17 +81,17 @@ You can also resize the browser window to see how the layout adapts to different
 
 ### 🖥️ Desktop View
 
-![Desktop](screenshots/desktop.png)
+![Desktop](desktop.png)
 
 ### 📱 Mobile View
 
-![Mobile](screenshots/mobile.png)
+![Mobile](mobile.png)
 
 ---
 
 🌐 **Live Demo**
 
-👉 [View Project Live](https://heyrohitdev.github.io/css-clone-projects/02-netflix-landing-page-clone/)
+👉 [View Project Live](https://heyrohitdev.github.io/css-clone-projects/02-Netflix-Landing-Page-Clone/)
 
 ---
 

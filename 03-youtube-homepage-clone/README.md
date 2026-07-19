@@ -75,7 +75,7 @@ youtube-homepage-clone/
 
 ## 🌐 Live Demo
 
-https://heyrohitdev.github.io/css-clone-projects/03-youtube-homepage-clone
+https://heyrohitdev.github.io/css-clone-projects/03-youtube-homepage-clone/
 
 ---
 

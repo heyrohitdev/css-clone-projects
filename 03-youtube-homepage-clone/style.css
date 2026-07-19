@@ -1,0 +1,255 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background: #0f0f0f;
+    color: white;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px 15px 15px 15px;
+    color: white;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo i {
+    font-size: 1.5rem;
+}
+
+.youtube-logo {
+    height: 35px;
+    width: 35px;
+    margin-left: 25px;
+    cursor: pointer;
+}
+
+.search-box {
+    display: flex;
+    align-items: center;
+    margin-left: 10rem;
+}
+
+.search-box input {
+    width: 540px;
+    height: 40px;
+    border: 1px solid #303030;
+    border-right: none;
+    border-radius: 20px 0 0 20px;
+    background: #121212;
+    color: white;
+    padding-left: 15px;
+}
+
+.search-btn {
+    width: 65px;
+    height: 40px;
+    border: 1px solid #303030;
+    border-radius: 0 20px 20px 0;
+    background: #222;
+    color: white;
+    cursor: pointer;
+    font-size: 1.2rem;
+}
+
+.mic-btn {
+    padding: 10px;
+    border-radius: 22px;
+    background: #222;
+    color: white;
+    border: none;
+}
+
+.create-btn {
+    padding: 10px 20px 10px 15px;
+    border: none;
+    border-radius: 50px;
+    background: #222;
+    font-weight: 700;
+    color: white;
+    font-size: 1rem;
+}
+
+.bell-btn {
+    font-size: 1.2rem;
+    background: none;
+    color: white;
+    border: none;
+    padding: 7px;
+}
+
+.bell-btn:hover {
+    border-radius: 30px;
+}
+
+.profile-logo {
+    height: 35px;
+    border-radius: 50px;
+    background: #222;
+    cursor: pointer;
+}
+
+.main-container {
+    display: flex;
+    width: 100%;
+    color: white;
+}
+
+.left-section {
+    width: 240px;
+    padding: 5px 15px 5px 15px;
+    
+}
+
+.left-section p {
+    margin-top: 14px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(253 242 242);
+    border-radius: 10px;
+}
+
+.left-section p:hover {
+    background: #272727;
+}
+
+.line {
+    border: 0.5px solid grey;
+    font-weight: normal;
+}
+
+.left-section p i {
+    padding-right: 10px;
+}
+
+
+.right-section {
+    width: 80%;
+}
+
+.buttons{
+    display: flex;
+    gap: 10px;
+    overflow-x: auto;
+    white-space: nowrap;
+}
+.btn {
+    background-color: #272727;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 8px 14px;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: 0.2s;
+    margin-bottom: 14px;
+}
+
+button:hover {
+    background-color: #3f3f3f;
+    cursor: pointer;
+}
+
+.btn:focus {
+    background-color: white;
+    color: black;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 600;
+}
+
+.video-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+
+.video-card {
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.video-card:hover {
+    transform: scale(1.02);
+}
+
+.video-info {
+    display: flex;
+    margin-top: 12px;
+}
+
+.thumbnail {
+    width: 100%;
+    border-radius: 12px;
+    cursor: pointer;
+}
+
+
+.channel-logo {
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    margin-right: 12px;
+
+}
+
+.video-details h4 {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 22px;
+}
+
+.video-details p {
+    font-size: 14px;
+    color: #aaaaaa;
+    margin-top: 4px;
+}
+
+
+
+
+@media (min-width:0px) and (max-width: 768px){
+
+
+    .left-section{
+        display: none;
+    }
+
+    .search-box{
+        margin-left: 1rem;
+    }
+
+    .search-box input{
+        width: 200px;
+    }
+
+    .create-btn {
+    padding: 5px 10px 5px 10px;
+    }
+
+    .right-section{
+        width: 100%;
+    }
+
+    .btn{
+        padding: 4px 7px;
+        font-size: 12px;
+    }
+
+    .video-container{
+        grid-template-columns: repeat(1, 1fr);
+    }
+    .video-card{
+        width: 100vw;
+    }
+
+}

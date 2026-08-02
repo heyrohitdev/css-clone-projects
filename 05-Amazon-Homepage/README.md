@@ -45,14 +45,19 @@ The main focus of this project was to practice:
 ```
 Amazon-Homepage/
 │
-├── images/
-│   ├── product-images
-│   ├── banner-images
-│   └── other assets
-│
 ├── index.html
+├── style.css
+├── README.md
 │
-└── style.css
+└── images/
+    ├── hero.jpg
+    ├── Product1.png
+    ├── Product2.png
+    ├── Product3.png
+    ├── Product4.png
+    ├── amazon-logo.png
+    ├── india-flag.png
+    └── desktop.png
 ```
 
 ---

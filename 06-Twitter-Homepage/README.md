@@ -59,19 +59,19 @@ https://heyrohitdev.github.io/css-clone-projects/06-Twitter-Homepage/
 
 ### 💻 Desktop
 
-![Desktop](Screenshot/desktop-responsive.png)
+![Desktop](desktop-responsive.png)
 
 ---
 
 ### 📱 Tablet
 
-![Tablet](Screenshot/tablet-responsive.png)
+![Tablet](tablet-responsive.png)
 
 ---
 
 ### 📱 Mobile
 
-![Mobile](Screenshot/mobile-responsive.png)
+![Mobile](mobile-responsive.png)
 
 ---
 

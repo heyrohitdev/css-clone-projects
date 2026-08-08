@@ -26,7 +26,7 @@ This project focus on HTML and CSS ans using new logic.
 
 ---
 
-🌐 **Live Demo**
+## 🌐 Live Demo
 
 👉 [View Project Live](https://heyrohitdev.github.io/css-clone-projects/04-Facebook-Login-Page-Clone/)
 

@@ -50,7 +50,6 @@ Twitter-Homepage/
 
 ## 🌐 Live Demo
 
-👉 **Click Here:**  
 👉 [View Project Live](https://heyrohitdev.github.io/css-clone-projects/06-Twitter-Homepage/)
 
 ---

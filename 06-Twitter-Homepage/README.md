@@ -51,7 +51,7 @@ Twitter-Homepage/
 ## 🌐 Live Demo
 
 👉 **Click Here:**  
-https://heyrohitdev.github.io/css-clone-projects/06-Twitter-Homepage/
+👉 [View Project Live](https://heyrohitdev.github.io/css-clone-projects/06-Twitter-Homepage/)
 
 ---
 

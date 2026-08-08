@@ -44,6 +44,9 @@ This project was created to strengthen my frontend development skills by recreat
 ![Mobile View](mobile.png)
 
 ---
+## 🌐 Live Demo
+
+👉 [View Project Live](https://heyrohitdev.github.io/css-clone-projects/03-youtube-homepage-clone/)
 
 ## 📂 Folder Structure
 
@@ -73,9 +76,6 @@ youtube-homepage-clone/
 
 ---
 
-## 🌐 Live Demo
-
-https://heyrohitdev.github.io/css-clone-projects/03-youtube-homepage-clone/
 
 ---
 

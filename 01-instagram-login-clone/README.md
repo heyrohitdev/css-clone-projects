@@ -21,9 +21,6 @@ A responsive Instagram login page built using **HTML5** and **CSS3**.
 - 🎨 CSS3
 
 ---
-## 🚀 Live Demo
-
-https://heyrohitdev.github.io/css-clone-projects/01-instagram-login-clone/
 
 ## 🖼️ Project Preview
 
@@ -36,6 +33,9 @@ https://heyrohitdev.github.io/css-clone-projects/01-instagram-login-clone/
 ![Mobile Screenshot](mobile.png)
 
 ---
+## 🚀 Live Demo
+
+👉 [View Project Live](https://heyrohitdev.github.io/css-clone-projects/01-instagram-login-clone/)
 
 ## 📁 Folder Structure
 

@@ -16,11 +16,12 @@ This repository contains website clone projects that I build to improve my HTML 
 
 | Project | Status |
 |---------|--------|
-| Instagram Clone 
-| Spotify Clone | ⏳ Coming Soon |
-| Amazon Clone | ⏳ Coming Soon |
-| Netflix Clone | ⏳ Coming Soon |
-| YouTube Clone | ⏳ Coming Soon |
+| Instagram Clone | Completed | 
+| Netflix Clone   | Completed |
+| Youtube Clone   | Completed |
+| Facebook Clone  | Completed |
+| Amazon Clone    | Completed |
+| Twitter Clone   | Completed |
 
 ## 🛠️ Technologies Used
 
